@@ -1,0 +1,2 @@
+# brasilcard-sdk-php
+Payments Services é a API desenvolvida pela Brasilcard com objetivo de oferecer integrações on-line com seus respectivos parceiros de negócios. Esta API é publicada através de Web Services que funcionam através dos padrões SOAP/XML, e são capazes de se conectarem as mais diversas plataformas de desenvolvimento. Estes serviços ficam disponíveis na internet através de endereços HTTP/HTTPS. 
